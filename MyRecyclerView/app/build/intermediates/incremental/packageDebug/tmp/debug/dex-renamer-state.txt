@@ -1,0 +1,7 @@
+#Wed Nov 13 21:50:01 ICT 2019
+base.0=C\:\\Users\\yolan\\OneDrive\\Documents\\Semester 5\\Mobile\\RecyclerView_Yolanda F S_17104035\\pertemuan 6\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\yolan\\OneDrive\\Documents\\Semester 5\\Mobile\\RecyclerView_Yolanda F S_17104035\\pertemuan 6\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

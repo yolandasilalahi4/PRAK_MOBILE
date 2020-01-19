@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">pertemuan6</string>
+    <string name="nama_kota">Nama Kota yang ada di Indonesia</string>
+    <string name="deskripsi_Kota">Deskripsi Kota</string>
+
+
+    <string-array name="data_name">
+        <item>Banda Aceh</item>
+        <item>Medan</item>
+        <item>Semarang</item>
+        <item>Palu</item>
+        <item>Surabaya</item>
+        <item>Bandung</item>
+    </string-array>
+    <string-array name="data_description">
+        <item> Kota Banda Aceh memang bukanlah kota metropolitan. Banda Aceh termasuk kota kecil, yang penduduknya lebih kurang 500 ribu jiwa. </item>
+        <item> Medan adalah kota pertama di Indonesia yang mengintegrasikan bandara dengan kereta api. </item>
+        <item> Kota Semarang adalah salah satu kota penting yang terletak di pesisir utara Jawa. </item>
+        <item> Kota Palu merupakan kota lima dimensi yang terdiri atas lembah, lautan, sungai, pegunungan, dan teluk. Kota Palu dikenal dengan sebutan jembatan gantung. </item>
+        <item> Surabaya terkenal dengan sebutan Kota Pahlawan karena sejarahnya yang sangat diperhitungkan dalam perjuangan Arek-Arek Suroboyo (Pemuda-pemuda Surabaya). </item>
+        <item> Kota Bandung ialah ibu kota provinsi Jawa Barat di Indonesia. </item>
+    </string-array>
+    <string-array name="photo">
+
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bd/Banda_Aceh%27s_Grand_Mosque%2C_Indonesia.jpg</item>
+        <item>https://4.bp.blogspot.com/-FzFJBtKgB2A/VzHzFMhJTnI/AAAAAAAAB70/SjssmWdkzHsQeMTGQ6YPhJN_oTcfwUVzQCLcB/s1600/1a.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/8/83/Semarang_TuguMuda.jpg/600px-Semarang_TuguMuda.jpg</item>
+        <item>https://www.pegipegi.com/travel/wp-content/uploads/2018/09/festival-palu-nomoni-.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/post/old/90531-surabayacover_pariwisatasurabayacom_600x400.jpg</item>
+        <item>https://www.discoveryproperty.id//img/content/Keunggulan_Weekend_di_Kota_Bandung_1560567836.jpg</item>
+    </string-array>
+</resources>
