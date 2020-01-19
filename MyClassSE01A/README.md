@@ -1,0 +1,5 @@
+![home](https://user-images.githubusercontent.com/43991221/72678687-ed7e9980-3ada-11ea-931c-b44d9bcf8bde.jpeg)
+![informasi](https://user-images.githubusercontent.com/43991221/72678689-f0798a00-3ada-11ea-826b-6630e38e12c2.jpeg)
+![data](https://user-images.githubusercontent.com/43991221/72678693-f2dbe400-3ada-11ea-9ffd-60bf8503368d.jpeg)
+![input dataa](https://user-images.githubusercontent.com/43991221/72678694-f5d6d480-3ada-11ea-8c05-c7866f25f57b.jpeg)
+![input data](https://user-images.githubusercontent.com/43991221/72678695-f8392e80-3ada-11ea-9de7-cbc28775633c.jpeg)
